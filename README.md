@@ -1,3 +1,4 @@
 # CCA
 Cloud Computing Assignment
-teste
+Company background
+current it set up
